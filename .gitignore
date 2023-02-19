@@ -1,0 +1,7 @@
+assets/
+__pycache__/
+.pytest_cache/
+archived_logs/
+latest_logs/
+recordings/
+sbase_env/
